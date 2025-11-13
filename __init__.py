@@ -10,7 +10,7 @@ bl_info = {
     "version": (1, 1, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Projection Paint",
-    "description": "Project painted images back onto objects as textures using camera-based UV projection with EEVEE baking",
+    "description": "Project painted images back onto objects as textures using camera-based UV projection with EEVEE/Cycles baking",
     "category": "Paint",
 }
 
