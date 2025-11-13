@@ -5,8 +5,8 @@ A Blender addon for camera-based projection painting workflow with EEVEE baking 
 ## Features
 
 - Project painted images back onto objects as textures using camera-based UV projection
-- EEVEE baking support for high-quality texture generation
-- Streamlined workflow for texture painting in Blender
+- EEVEE baking support for fast texture baking
+- Works with multiple objects/materials/textures
 
 ## Installation
 
@@ -31,7 +31,7 @@ Current version: 1.1.0
 
 ## License
 
-[Add your license here - e.g., GPL-3.0, MIT, etc.]
+MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Contributing
 

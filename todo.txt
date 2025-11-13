@@ -1,2 +1,0 @@
-- add support for layer groups
-- uv helper object is not deleted?

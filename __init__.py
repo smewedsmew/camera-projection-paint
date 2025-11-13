@@ -6,6 +6,7 @@ A complete addon for camera-based projection painting workflow with EEVEE baking
 
 bl_info = {
     "name": "Camera Projection Paint",
+    "author": "smewed",
     "version": (1, 1, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Projection Paint",

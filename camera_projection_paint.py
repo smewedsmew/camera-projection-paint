@@ -18,18 +18,11 @@ from bpy.props import (
     FloatProperty,
     FloatVectorProperty,
 )
+
 from bpy.app.handlers import persistent
-
-# Import EEVEE baking module
 from . import uv_bake_eevee
-
-# Import common utilities
 from . import common
-
-# Import PSD watcher
 from . import psd_watcher
-
-# Import PSD handler
 from . import psd_handler
 
 # =====================================================================
