@@ -17,9 +17,15 @@ A Blender addon for camera-based projection painting workflow with EEVEE baking 
 
 ## Usage
 
-1. Find the addon panel in the 3D Viewport sidebar (press `N` to show sidebar)
-2. Navigate to the `Projection Paint` tab
-3. Follow the workflow for camera-based projection painting
+1. Open the 3D Viewport sidebar (press `N`)
+2. Go to the **Illustration** tab
+3. Select a PSD file containing your painted layers
+4. Enable objects for projection
+5. Auto-map or manually assign PSD layers to texture nodes
+6. Update Preview to see the projection in the viewport
+7. Update Bake to prepare for baking
+8. Bake with EEVEE (fast) or Cycles
+9. Apply the baked result to finalize
 
 ## Requirements
 
